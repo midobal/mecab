@@ -40,4 +40,4 @@ make install
 
 ## Tokenizer
 
-To use MeCab as a tokenizer, see [tokenizer](tokenizer/README.md).
+To use MeCab as a tokenizer, see [tokenizer](tokenizer).
