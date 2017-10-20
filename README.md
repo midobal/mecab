@@ -37,3 +37,7 @@ cd mecab-ipadic
 configure --with-mecab-config=../mecab/mecab-config --prefix=path_to_MeCab_installation_directory --with-charset=utf8
 make install
 ```
+
+## Tokenizer
+
+To use MeCab as a tokenizer, see [tokenizer](tokenizer/README.md).
