@@ -21,11 +21,11 @@ Copyright © 2004-2006 Nippon Telegraph and Telephone Corporation
 
 **-r**, **--rcfile**=*FILE*
 
-    	use FILE as resource file.
+	use FILE as resource file.
 	
 **-d**, **--dicdir**=*DIR*
 
-    	set DIR as a system dicdionary.
+	set DIR as a system dicdionary.
 	
 **-u**, **--userdic**=*FILE*
 
