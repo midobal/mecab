@@ -12,7 +12,7 @@ More information about MeCab can be found in the [documentation](http://taku910.
 
 To install MeCab, follow these steps:
 
-###### MeCab installation
+##### MeCab installation
 
 Create a directory in which to install MeCab:
 
@@ -28,7 +28,7 @@ configure --prefix=path_to_MeCab_installation_directory --with-charset=utf8
 make install
 ```
 
-###### Dictionary installation
+##### Dictionary installation
 
 Configure, compile and install the dictionary:
 
