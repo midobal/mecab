@@ -40,4 +40,8 @@ make install
 
 ## Tokenizer
 
-To use MeCab as a tokenizer, see [tokenizer](tokenizer).
+To use MeCab as a tokenizer, use the option:
+
+```
+mecab -O wakati < raw_file > tokenized_file
+```
